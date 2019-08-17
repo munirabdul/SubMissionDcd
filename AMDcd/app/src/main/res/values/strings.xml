@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AMDcd</string>
+    <string name="description_title">Mount Description</string>
+    <string name="location">Climbed a date :</string>
+    <string name="content_text">Indonesia memiliki harta warisan yang sangat kaya, baik daratan maupun lautan yang tidak dimiliki oleh negara lain. Maka dari itu berbanggalah kita menjadi anak bangsa.
+        Dirgahayu Indonesiaku yang ke 74.</string>
+    <string name="content_specs_display">DKI Jakarta</string>
+    <string name="content_specs_size">Garut, 14 November 1993</string>
+    <string name="content_specs_battery">Keliling Indonesia</string>
+    <string name="dummy_photos">6 photos</string>
+    <string name="biodata">Biodata</string>
+    <string name="aku_cinta_indonesia">Aku Cinta Indonesia</string>
+    <string name="munir_bin_syarif">Munir Bin syarif</string>
+    <string name="tempat_tinggal">Tempat Tinggal</string>
+    <string name="tempat_tanggal_lahir">Tempat Tanggal Lahir</string>
+    <string name="cita_cita">Cita-cita</string>
+</resources>
